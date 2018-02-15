@@ -1,4 +1,5 @@
 # Guia-do-mochileiro-empreendedor
+
 Validando sua Startup + Transformando sua Ideia em um Plano de Negocio
 
 # Validando sua Startup
